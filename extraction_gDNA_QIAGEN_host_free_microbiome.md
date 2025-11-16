@@ -4,29 +4,32 @@
 **Purpose:** This protocol is used for isolation of bacterial DNA from samples that are intrinsically rich in host DNA.
 
 **Supplies:**
-Qiagen Tissue Microbiome Field Test Kit (Cat # )
+Qiagen QIAamp DNA Host-Free Microbiome Kit [(Cat #51904)](https://www.qiagen.com/us/products/discovery-and-translational-research/dna-rna-purification/dna-purification/microbial-dna/qiaamp-dna-host-free-microbiome)
 
 **Equipment:**
+
 Omni Bead Ruptor 96
 
 Thermomixer heat block
 
-Centrifuge
+Microcentrifuge
 
 End-over-end rotator
 
 Vortex
 
-P1000, P200 pipet tips
+P1000, P200 , P20, P2 pipettors
 
 ## **Protocol:**
+Follow procedures for working in low biomass lab including: UV, bleach and ethanol treatment of surfaces and equipment, handling of samples in a PCR hood, keeping caps closed.
+
 Things to do before starting:
 
 [ ]Remove all components from refrigerator or freezer.
 
 [ ]Dissolve lyophilized Dissociation Mix in 1.8ml PBS; mix by inversion, store in aliquots at -20C.
 
-[ ]If not using a complete bottle of Buffer AHL, make sure to use sterile technique to remove the needed amount of buffer. For this step, work under laminar flow is recommended.
+[ ]If not using a complete bottle of Buffer AHL, make sure to use sterile technique to remove the needed amount of buffer. 
 
 [ ]If a precipitate has formed in Buffer ATL or Buffer APL2, dissolve by incubation at 56°C.
 
@@ -87,3 +90,26 @@ Optional: Depending on the downstream application, water or Buffer EB may be use
 [ ] Repeat elution step to obtain the total of 50 μl DNA.
 
 [ ] Quantitate DNA by Qubit.
+
+##**Kit Contents**##
+|Item|Storage|Lot #|
+|QIAamp UCP Mini Columns|4C|
+|Collection tubes (2 ml)|RT|
+|Elution tubes (1.5 ml|)RT|
+|Buffer AHL|-20C|
+|Buffer RDD|RT|
+|Benzonase|-20C|
+|Buffer ATL|-20C|
+|Reagent DX (clear cap)|RT|
+|Buffer APL2|RT|
+|Buffer AW1 (concentrate)|RT|
+|Buffer AW2 (concentrate)|RT|
+|Proteinase K (green cap)|RT|
+|Buffer AVE|RT|
+|200 proof Ethanol mol bio grade|RT|
+|DNA Elution buffer|RT|
+|Microcentrifuge tubes|RT|
+|PowerBead Pro tubes|RT|
+
+
+
