@@ -113,7 +113,7 @@ Optional: Depending on the downstream application, water or Buffer EB may be use
 
 ## **Kit Contents**
 
-| Item                            | Storage | Lot #        
+| Item                            | Storage | Lot number   
 |---------------------------------|---------|--------------
 | QIAamp UCP Mini Columns         | 4C      | 
 | Collection tubes (2 ml)         | RT      |  
