@@ -93,53 +93,53 @@ Optional: Depending on the downstream application, water or Buffer EB may be use
 
 ##**Sample information**##
 
-| Tube ID | Sample type | Weight (mg) | Concentration (ng/ul) |
-| | | | |
-| | | | |
-| | | | |
-| | | | |
-| | | | |
-| | | | |
-| | | | |
-| | | | |
-| | | | |
-| | | | |
-
+| Tube ID     | Sample type | Weight (mg) | Concentration (ng/ul) 
+|------------ | ----------- | ----------- | --------------------
+|             |             |             | 
+|             |             |             | 
+|             |             |             | 
+|             |             |             | 
+|             |             |             | 
+|             |             |             | 
+|             |             |             | 
+|             |             |             | 
+|             |             |             | 
 
 ##**Kit Contents**##
 
-| Item | Storage | Lot # |
+| Item                            | Storage | Lot # 
+|---------------------------------|---------|--------------
 
-| QIAamp UCP Mini Columns |4C | |
+| QIAamp UCP Mini Columns         | 4C      | 
 
-| Collection tubes (2 ml) | RT | |
+| Collection tubes (2 ml)         | RT      | 
 
-| Elution tubes (1.5 ml) | RT | |
+| Elution tubes (1.5 ml)          | RT      | 
 
-| Buffer AHL | -20 C| |
+| Buffer AHL                      | -20 C   | 
 
-| Buffer RDD | RT | |
+| Buffer RDD                      | RT      | 
 
-| Benzonase | -20C | |
+| Benzonase                       | -20C    | 
 
-| Buffer ATL | -20C | |
+| Buffer ATL                      | -20C    | 
 
-| Reagent DX (clear cap) | RT | |
+| Reagent DX (clear cap)          | RT      | 
 
-| Buffer APL2 | RT | |
+| Buffer APL2                     | RT      | 
 
-| Buffer AW1 (concentrate) | RT | |
+| Buffer AW1 (concentrate)        | RT      | 
 
-| Buffer AW2 (concentrate) | RT | |
+| Buffer AW2 (concentrate)        | RT      | 
 
-| Proteinase K (green cap) | RT | |
+| Proteinase K (green cap)        | RT      | 
 
-| Buffer AVE | RT | |
+| Buffer AVE                      | RT      | 
 
-| 200 proof Ethanol mol bio grade | RT | |
+| 200 proof Ethanol mol bio grade | RT      | 
 
-| DNA Elution buffer | RT | |
+| DNA Elution buffer              | RT      | 
 
-| Microcentrifuge tubes | R T| |
+| Microcentrifuge tubes           | RT      | 
 
-| PowerBead Pro tubes | RT | |
+| PowerBead Pro tubes             | RT      | 
