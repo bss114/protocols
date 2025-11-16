@@ -1,7 +1,7 @@
 # **QIAGEN host-free microbiome gDNA extraction kit**
 (also previously known as QIAGEN Tissue microbiome field test kit)
 
-**Purpose:** This protocol is used for isolation of bacterial DNA from samples that are intrinsically rich in host DNA.
+**Purpose:** This protocol is used for isolation of bacterial DNA from samples that are intrinsically rich in host DNA. This kit has been used to successfully extract microbiome DNA from human lung (40-60mg) and colorectal punch biopsy (1 punch). The resulting DNA is suitable for 16S and ITS amplicon PCR.
 
 **Supplies:**
 Qiagen QIAamp DNA Host-Free Microbiome Kit [(Cat #51904)](https://www.qiagen.com/us/products/discovery-and-translational-research/dna-rna-purification/dna-purification/microbial-dna/qiaamp-dna-host-free-microbiome)
@@ -41,7 +41,7 @@ Things to do before starting:
 
 **A. Depletion of host DNA**
 
-[ ] Weigh 40-60 mg of lung tissue, use disposable scalpel to cut the tissue into smaller pieces on a sterile petri dish. Record weight and place into a screw cap tube.
+[ ] Weigh up to 60 mg of tissue, use disposable scalpel to cut the tissue into smaller pieces on a sterile petri dish. Record weight and place into a screw cap tube.
 
 Add the following in order to the tube:
 
