@@ -104,43 +104,31 @@ Optional: Depending on the downstream application, water or Buffer EB may be use
 |             |             |             |                     
 |             |             |             |                     
 |             |             |             |                     
+|             |             |             |                     
+|             |             |             |                     
+|             |             |             |                     
+|             |             |             |                     
+
 
 
 ##**Kit Contents**##
 
 | Item                            | Storage | Lot # 
 |---------------------------------|---------|--------------
-
-| QIAamp UCP Mini Columns         | 4C      | -
-
-| Collection tubes (2 ml)         | RT      | 
-
-| Elution tubes (1.5 ml)          | RT      | 
-
-| Buffer AHL                      | -20 C   | 
-
-| Buffer RDD                      | RT      | 
-
-| Benzonase                       | -20C    | 
-
-| Buffer ATL                      | -20C    | 
-
-| Reagent DX (clear cap)          | RT      | 
-
-| Buffer APL2                     | RT      | 
-
-| Buffer AW1 (concentrate)        | RT      | 
-
-| Buffer AW2 (concentrate)        | RT      | 
-
-| Proteinase K (green cap)        | RT      | 
-
-| Buffer AVE                      | RT      | 
-
-| 200 proof Ethanol mol bio grade | RT      | 
-
-| DNA Elution buffer              | RT      | 
-
-| Microcentrifuge tubes           | RT      | 
-
-| PowerBead Pro tubes             | RT      | 
+| QIAamp UCP Mini Columns         | 4C      | 
+| Collection tubes (2 ml)         | RT      |  
+| Elution tubes (1.5 ml)          | RT      |  
+| Buffer AHL                      | -20 C   |  
+| Buffer RDD                      | RT      |  
+| Benzonase                       | -20C    |  
+| Buffer ATL                      | -20C    |  
+| Reagent DX (clear cap)          | RT      |  
+| Buffer APL2                     | RT      |  
+| Buffer AW1 (concentrate)        | RT      |  
+| Buffer AW2 (concentrate)        | RT      |  
+| Proteinase K (green cap)        | RT      |  
+| Buffer AVE                      | RT      |  
+| 200 proof Ethanol mol bio grade | RT      |  
+| DNA Elution buffer              | RT      |  
+| Microcentrifuge tubes           | RT      |  
+| PowerBead Pro tubes             | RT      |  
