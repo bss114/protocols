@@ -37,6 +37,7 @@ Things to do before starting:
 [ ]Before use, add 100 μl Reagent DX to 15 ml Buffer ATL. If smaller amounts are needed, transfer 1.5 ml of Buffer ATL into a sterile 2 ml vial and add 10 μl Reagent DX. Mix well after adding Reagent DX. After preparation, the mixture is stable for 6 months at room temperature (15–25°C).
 
 **A. Depletion of host DNA**
+
 [ ] Weigh 40-60 mg of lung tissue, use disposable scalpel to cut the tissue into smaller pieces on a sterile petri dish. Record weight and place into a screw cap tube.
 
 Add the following in order to the tube:
@@ -54,6 +55,7 @@ Add the following in order to the tube:
 [ ] Add 200ul Buffer ATL (containing Reagent DX); mix well and transfer to a PowerBead tube.
 
 **B. Tissue Homogenization**
+
 [ ] Secure a bead beater fitted with a 2 ml tube holder assembly and place it in the Omni Bead Ruptor for 5 minute at 30Hz; rotate assembly and repeat.
 
 [ ] Centrifuge the PowerBead tube at 10,000xg, 1 min.
@@ -61,6 +63,7 @@ Add the following in order to the tube:
 [ ] Transfer the homogenized liquid into a new tube being careful to not carry over beads.
 
 **C. Lysing bacterial cells**
+
 [ ] Add 200 μl Buffer APL2. Mix by pulse vortexing for 30 s.
 
 [ ] Incubate at 70°C for 10 min and briefly spin the tube.
