@@ -8,10 +8,15 @@ Qiagen Tissue Microbiome Field Test Kit (Cat # )
 
 **Equipment:**
 Omni Bead Ruptor 96
+
 Thermomixer heat block
+
 Centrifuge
+
 End-over-end rotator
+
 Vortex
+
 P1000, P200 pipet tips
 
 ## **Protocol:**
