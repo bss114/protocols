@@ -91,7 +91,7 @@ Optional: Depending on the downstream application, water or Buffer EB may be use
 
 [ ] Quantitate DNA by Qubit.
 
-##**Sample information**##
+## **Sample information**
 
 | Tube ID     | Sample type | Weight (mg) | Concentration (ng/ul) 
 |------------ | ----------- | ----------- | --------------------
@@ -111,9 +111,9 @@ Optional: Depending on the downstream application, water or Buffer EB may be use
 
 
 
-##**Kit Contents**##
+## **Kit Contents**
 
-| Item                            | Storage | Lot # 
+| Item                            | Storage | Lot #        
 |---------------------------------|---------|--------------
 | QIAamp UCP Mini Columns         | 4C      | 
 | Collection tubes (2 ml)         | RT      |  
