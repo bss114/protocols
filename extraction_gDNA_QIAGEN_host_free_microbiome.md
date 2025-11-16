@@ -95,22 +95,32 @@ Optional: Depending on the downstream application, water or Buffer EB may be use
 
 | Tube ID     | Sample type | Weight (mg) | Concentration (ng/ul) 
 |------------ | ----------- | ----------- | --------------------
+
 |             |             |             | 
+
 |             |             |             | 
+
 |             |             |             | 
+
 |             |             |             | 
+
 |             |             |             | 
+
 |             |             |             | 
+
 |             |             |             | 
+
 |             |             |             | 
+
 |             |             |             | 
+
 
 ##**Kit Contents**##
 
 | Item                            | Storage | Lot # 
 |---------------------------------|---------|--------------
 
-| QIAamp UCP Mini Columns         | 4C      | 
+| QIAamp UCP Mini Columns         | 4C      | -
 
 | Collection tubes (2 ml)         | RT      | 
 
