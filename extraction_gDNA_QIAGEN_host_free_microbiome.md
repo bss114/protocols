@@ -16,15 +16,20 @@ P1000, P200 pipet tips
 
 ## **Protocol:**
 Things to do before starting:
+
 [ ]Remove all components from refrigerator or freezer.
+
 [ ]Dissolve lyophilized Dissociation Mix in 1.8ml PBS; mix by inversion, store in aliquots at -20C.
+
 [ ]If not using a complete bottle of Buffer AHL, make sure to use sterile technique to remove the needed amount of buffer. For this step, work under laminar flow is recommended.
-[ ]If a precipitate has formed in Buffer ATL or Buffer APL2, dissolve by incubation at
-56°C.
+
+[ ]If a precipitate has formed in Buffer ATL or Buffer APL2, dissolve by incubation at 56°C.
+
 [ ]Preheat heating blocks or water baths to 37°C, 56°C, and 70°C.
+
 [ ]Ensure that Buffers AW1 and AW2 have been prepared according to the instructions on the bottle.
-[ ]Before use, add 100 μl Reagent DX to 15 ml Buffer ATL. If smaller amounts are
-needed, transfer 1.5 ml of Buffer ATL into a sterile 2 ml vial and add 10 μl Reagent DX. Mix well after adding Reagent DX. After preparation, the mixture is stable for 6 months at room temperature (15–25°C).
+
+[ ]Before use, add 100 μl Reagent DX to 15 ml Buffer ATL. If smaller amounts are needed, transfer 1.5 ml of Buffer ATL into a sterile 2 ml vial and add 10 μl Reagent DX. Mix well after adding Reagent DX. After preparation, the mixture is stable for 6 months at room temperature (15–25°C).
 
 **A. Depletion of host DNA**
 [ ] Weigh 40-60 mg of lung tissue, use disposable scalpel to cut the tissue into smaller pieces on a sterile petri dish. Record weight and place into a screw cap tube.
