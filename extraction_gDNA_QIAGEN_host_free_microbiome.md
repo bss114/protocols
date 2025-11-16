@@ -1,8 +1,11 @@
 # **QIAGEN host-free microbiome gDNA extraction kit**
 (also previously known as QIAGEN Tissue microbiome field test kit)
+
 **Purpose:** This protocol is used for isolation of bacterial DNA from samples that are intrinsically rich in host DNA.
+
 **Supplies:**
 Qiagen Tissue Microbiome Field Test Kit (Cat # )
+
 **Equipment:**
 Omni Bead Ruptor 96
 Thermomixer heat block
@@ -10,6 +13,7 @@ Centrifuge
 End-over-end rotator
 Vortex
 P1000, P200 pipet tips
+
 ## **Protocol:**
 Things to do before starting:
 [ ]Remove all components from refrigerator or freezer.
@@ -21,6 +25,7 @@ Things to do before starting:
 [ ]Ensure that Buffers AW1 and AW2 have been prepared according to the instructions on the bottle.
 [ ]Before use, add 100 μl Reagent DX to 15 ml Buffer ATL. If smaller amounts are
 needed, transfer 1.5 ml of Buffer ATL into a sterile 2 ml vial and add 10 μl Reagent DX. Mix well after adding Reagent DX. After preparation, the mixture is stable for 6 months at room temperature (15–25°C).
+
 **A. Depletion of host DNA**
 [ ] Weigh 40-60 mg of lung tissue, use disposable scalpel to cut the tissue into smaller pieces on a sterile petri dish. Record weight and place into a screw cap tube.
 Add the following in order to the tube:
@@ -30,10 +35,12 @@ Add the following in order to the tube:
   [ ]Mix well and incubate at 37C, 45min, 600RPM.
 [ ] Add 20ul Proteinase K, mix well and incubate at 56C, 20 min, 600RPM.
 [ ] Add 200ul Buffer ATL (containing Reagent DX); mix well and transfer to a PowerBead tube.
+
 **B. Tissue Homogenization**
 [ ] Secure a bead beater fitted with a 2 ml tube holder assembly and place it in the Omni Bead Ruptor for 5 minute at 30Hz; rotate assembly and repeat.
 [ ] Centrifuge the PowerBead tube at 10,000xg, 1 min.
 [ ] Transfer the homogenized liquid into a new tube being careful to not carry over beads.
+
 **C. Lysing bacterial cells**
 [ ] Add 200 μl Buffer APL2. Mix by pulse vortexing for 30 s.
 [ ] Incubate at 70°C for 10 min and briefly spin the tube.
