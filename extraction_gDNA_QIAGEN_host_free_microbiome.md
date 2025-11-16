@@ -95,24 +95,15 @@ Optional: Depending on the downstream application, water or Buffer EB may be use
 
 | Tube ID     | Sample type | Weight (mg) | Concentration (ng/ul) 
 |------------ | ----------- | ----------- | --------------------
-
-| -           | -           | -           | -
-
-|             |             |             | 
-
-|             |             |             | 
-
-|             |             |             | 
-
-|             |             |             | 
-
-|             |             |             | 
-
-|             |             |             | 
-
-|             |             |             | 
-
-|             |             |             | 
+|             |             |             |                     
+|             |             |             |                     
+|             |             |             |                     
+|             |             |             |                     
+|             |             |             |                     
+|             |             |             |                     
+|             |             |             |                     
+|             |             |             |                     
+|             |             |             |                     
 
 
 ##**Kit Contents**##
