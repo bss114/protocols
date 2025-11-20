@@ -1,4 +1,4 @@
-# **MEBNext Microbiome DNA Enrichment kit**
+# **NEBNext Microbiome DNA Enrichment kit**
 
 **Purpose:** This protocol facilitates enrichment of microbial DNA from samples containing methylated host DNA (including human), by selective binding and removal of the CpG-methylated host DNA. Importantly, microbial diversity remains intact after enrichment.
 
