@@ -34,7 +34,7 @@ Things to do before starting:
 
 **A. Prepare solid tissue samples**
 
-[ ] 1. Weigh up to 125 mg of tissue, use disposable scalpel to cut the tissue into smaller pieces on a sterile petri dish. Record weight and place into a ZR BashingBead lysis tube (2.0mm).
+[ ] 1. Add two empty tubes, one at beginning and one at end, for extraction controls; treat as samples but without tissue added. Weigh up to 125 mg of tissue, use disposable scalpel to cut the tissue into smaller pieces on a sterile petri dish. Record weight and place into a ZR BashingBead lysis tube (2.0mm).
 
 [ ] 2. Add 750ul DNA Elution Buffer.
 
