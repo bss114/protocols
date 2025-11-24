@@ -1,6 +1,6 @@
 # **Zymo HostZERO Microbial DNA kit**
 
-**Purpose:** This protocol is used for isolation of bacterial DNA.
+**Purpose:** This protocol is used for isolation of bacterial DNA. Bead beating with 2.0 mm beads will mostly lyse tissue and host cells while preserving microbial cells.
 
 **Supplies:**  
 
@@ -34,7 +34,7 @@ Things to do before starting:
 
 **A. Prepare solid tissue samples**
 
-[ ] 1. Weigh up to 125 mg of tissue, use disposable scalpel to cut the tissue into smaller pieces on a sterile petri dish. Record weight and place into a screw cap tube.
+[ ] 1. Weigh up to 125 mg of tissue, use disposable scalpel to cut the tissue into smaller pieces on a sterile petri dish. Record weight and place into a ZR BashingBead lysis tube (2.0mm).
 
 [ ] 2. Add 750ul DNA Elution Buffer.
 
@@ -47,7 +47,7 @@ Things to do before starting:
 
 **B. Depletion of host DNA**
 
-[ ] 1. Add 1 ml Host DNA Depletion Solution to sample in the lysis tube and resuspend the pellet; transfer to a new microcentrifuge tube
+[ ] 1. Add 1 ml Host DNA Depletion Solution to sample in the lysis tube and resuspend the pellet mixing well; transfer to a new microcentrifuge tube
 
 [ ] 2. Rotate sample for 15 minutes using end-over-end rotation at room temperature (20-30ºC).
 
