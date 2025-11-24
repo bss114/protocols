@@ -2,7 +2,7 @@
 
 ## Use Case
 
-This protocol is a derived from the high throughput protocol and is intended for users with a limited number of samples where it does not make sense to use a 96-well plate format and instead can do 1 or more samples in strip tubes. It may also be useful to catch samples which failed iSeq QC. **Note: If a Co-Lab user is doing this protocol, it is imperative that they arrange their indexes ahead of time and get aliquots from Bethany. This protocol will not create enough material for NovaSeq sequencing on < 50 samples and must be pooled with other projects.**
+This protocol is adapted from the [Bisanz lab](https://github.com/BisanzLab/OHMC_Colaboratory/blob/main/Protocols/MetagenomeSeq/IlluminaPrep_Individual.md), which is derived from the high throughput protocol and is intended for users with a limited number of samples where it does not make sense to use a 96-well plate format and instead can do 1 or more samples in strip tubes. It may also be useful to catch samples which failed iSeq QC. **Note: It is imperative to coordinate indexes ahead of time if pooling samples with others for sequencing. This protocol will not create enough material for NovaSeq sequencing on < 50 samples and must be pooled with other projects.**
 
 ## Theory
 
@@ -18,9 +18,6 @@ This protocol uses the [Illumina DNA Prep protocol](https://support.illumina.com
 
 **Sample Input Requirements**: All samples must be pure DNA free of contaminants such as organic solvents or wash buffers from extraction. It is anticipated that most DNA has been derived from the QIAcube HT Powersoil kit which should not have these issues. Samples should be pre-normalized to 5 ng/ul and have at least 15 µL available. To normalize the samples, they should be measured by qubit (if yield of samples is <30ng/ul), or Nanodrop (if sample yield is >=30ng/ul). **If using Nanodrop, the 260/230 ratio must be over 1.4.** All DNA should be resuspended in water or Tris-HCl. *Avoid EDTA/TE where possible.*
 
-## Theory
-
-This protocol is adapted from Illumina's [DNA Prep protocol](https://support.illumina.com/content/dam/illumina-support/documents/documentation/chemistry_documentation/illumina_prep/illumina-dna-prep-reference-guide-1000000025416-10.pdf), with the main difference that volumes have been scaled down by a factor of 5 in the name of costs.
 
 ## Materials
 
