@@ -39,7 +39,7 @@ Things to do before starting:
 
 **A. Depletion of host DNA**
 
-[ ] 1. Weigh up to 60 mg of tissue, use disposable scalpel to cut the tissue into smaller pieces on a sterile petri dish. Record weight and place into a screw cap tube.
+[ ] 1. Add two empty tubes, one at beginning and one at end, for extraction controls; treat as samples but without tissue added. Weigh up to 60 mg of tissue, use disposable scalpel to cut the tissue into smaller pieces on a sterile petri dish. Record weight and place into a screw cap tube.
 
 2. Add the following in order to the tube:
 
