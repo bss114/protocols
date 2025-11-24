@@ -61,7 +61,7 @@ Things to do before starting:
 
 **B. Capture Methylated Host DNA onto the Beads and Collect Enriched Microbial DNA**
 
-[ ] 1. Add ~30 ng of DNA extract to a tube containing the 5 μl of MBD2-Fc-bound magnetic beads prepared in part A.
+[ ] 1. Add two empty tubes, one at beginning and one at end, for enrichment controls; treat as samples but without DNA added. Add ~30 ng of DNA extract to each sample tube plus 5 μl of MBD2-Fc-bound magnetic beads prepared in part A.
 
 [ ] 2. Add undiluted Bind/wash Buffer (5X) for a final concentration of 1X:
     Volume of 5X Bind/wash Buffer to add (μl) = Vol input DNA (μl)/4
