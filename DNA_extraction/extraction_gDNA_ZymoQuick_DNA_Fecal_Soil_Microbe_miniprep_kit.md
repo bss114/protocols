@@ -12,6 +12,7 @@ Human lung samples (40-60mg) were processed using this kit and subsequently char
 
 **Equipment:**
 
+- Omni Bead Ruptor 96
 - Microcentrifuge
 - Vortex
 - P1000, P200 , P20, P2 pipettors
