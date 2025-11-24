@@ -1,6 +1,6 @@
 # **Zymo HostZERO Microbial DNA kit**
 
-**Purpose:** This protocol is used for isolation of bacterial DNA. Bead beating with 2.0 mm beads will mostly lyse tissue and host cells while preserving microbial cells.
+**Purpose:** This protocol is used for isolation of bacterial DNA. Bead beating with 2.0 mm beads will mostly lyse tissue and host cells while preserving microbial cells. The kit then uses a novel method to reduce the amount of contaminating host DNA by selectively degrading eukaryotic DNA prior to total DNA purification. This method has been tested with human lung tissue (40-60mg); the resulting DNA samples were extremely low in yield and not further processed for 16S.
 
 **Supplies:**  
 
