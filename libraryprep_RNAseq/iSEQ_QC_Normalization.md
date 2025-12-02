@@ -5,7 +5,7 @@ This protocol is adapted from the [Bisanz lab protocol](https://github.com/Bisan
 There are many ways to normalize a sequencing library, but it can be difficult (and expensive) to perfectly normalize a pool. Because there are many variables (such as size) that can affect clustering efficiency, one of the best ways to normalize a sequencing library is to... sequence it. This can be accomplished using an iSeq 100 which utilizes the same chemistry and flow cell as the NovaSeq x, but at a significantly lower cost and read depth. Essentially, in this protocol, 1 µL of each library is combined in a tube and run on the iSeq. The resulting read counts per sample are then used to adjust the pooling volumes for sequencing on a NovaSeq/NextSeq run. 
 Note: libraries that were prepared in parallel (multichannel) from at least 30ng of starting material should be relatively well normalized already and it is possible to directly proceed to this protocol. For samples that might have extreme differences in yield (this can be determined by looking at the tapestation QC), a pre-normalization to 1nM should be performed. This can be achieved using the OT-2 script [PlateDilution.py](https://github.com/BisanzLab/OHMC_Colaboratory/blob/main/OT2_scripts/TransferAndDilute/PlateDilution.py); the [transfer.csv sample sheet](https://github.com/BisanzLab/OHMC_Colaboratory/blob/main/OT2_scripts/TransferAndDilute/transfers.csv) will be required.
 
-##**Step 1: Prepare QC pool:**
+## **Step 1: Prepare QC pool:**
 
 Things to do before starting:
 
@@ -59,7 +59,7 @@ Things to do before starting:
   - [ ] In a lo-bind tube, combine 15 µL of the 1nM library with 2.1 µL of the 1 nM PhiX (7% spikein). 
   - [ ] Add 182.9ul RSB to make the final concentration 75pM.
 
-##**Step 2: Sequence pool:**
+## **Step 2: Sequence pool:**
 
 **2.1 Consumables**
 
@@ -87,7 +87,7 @@ Things to do before starting:
   - [ ] Monitor instrument for next 15 minutes as it does prerun checks. If any issues arise, immediately contact Illumina customer support.
 
 
-##**Step 3: Analyze data
+## **Step 3: Analyze data**
 
 - [ ] In [basespace](https://login.illumina.com/platform-services-manager/?rURL=https://basespace.illumina.com&clientId=basespace&clientVars=aHR0cHM6Ly9iYXNlc3BhY2UuaWxsdW1pbmEuY29tL2Rhc2hib2FyZA&redirectMethod=GET#/), find your run. Click the hourglass under the summary tab, and click requeue, then sample sheet. 
 - [ ] Under the data section, copy and paste complete sample sheet that was exported from the "iSeq_samplesheet" tab of the RNASeq_RunTemplate.xlsx file(ADD_LINK).
@@ -97,12 +97,14 @@ Things to do before starting:
 - [ ] Export the Loadings.csv tab to proceed to final loading.
 - [ ] Remove any samples which are not required.
 
-##**Step 4: Repool samples and clean up
+## **Step 4: Repool samples and clean up**
+
 - [ ] On the Post PCR OT2, use the [Pool Equimolar libraries from CSV program](https://github.com/BisanzLab/OHMC_Colaboratory/blob/main/OT2_scripts/PoolLibs/PoolLibs.py) to pool samples uploading your loadings.csv file and following the instructions.
 - [ ] Repeat the 1:1 Ampure bead clean up procedure as described in step 1.3.
 - [ ] Store final library at -20˚C until QC/sequencing.
 
-##**Step 5: Final QC
+## **Step 5: Final QC**
+
 - [ ] Run library on Tape Station to confirm final size distribution and concentration, integrate the region 200-400bp: _______pM
 - [ ] Run on Qubit to get concentration: _____ng/ul
 - [ ] Record average insert size from tapestation: ______bp and use to calculate molarity from Qubit: ______pM
