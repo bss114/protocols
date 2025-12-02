@@ -1,4 +1,4 @@
-# Illumina DNA Prep - Strip Tubes
+# Illumina DNA Prep - Strip Tubes IN DEVELOPMENT BS
 
 ## Use Case
 
@@ -6,7 +6,7 @@ This protocol is adapted from the [Bisanz lab](https://github.com/BisanzLab/OHMC
 
 ## Theory
 
-This protocol uses the [Illumina DNA Prep protocol](https://support.illumina.com/content/dam/illumina-support/documents/documentation/chemistry_documentation/illumina_prep/illumina-dna-prep-reference-guide-1000000025416-10.pdf); however, reaction volumes have been scaled for cost savings, and all steps should be performed on samples simultaneously in strip tibes using a multichannel pipettor. Also, to aid in cost reductions, optional substitutions of some illumina reagents are included which may facilitate higher throughput processing. Broadly speaking, this library step involves 4 steps:
+This protocol uses the [Illumina DNA Prep protocol](https://support-docs.illumina.com/LP/IlluminaDNAPrep/Content/LP/FrontPages/IlluminaDNAPrep.htm); however, reaction volumes have been scaled for cost savings, and all steps should be performed on samples simultaneously in strip tubes using a multichannel pipettor. Also, to aid in cost reductions, optional substitutions of some illumina reagents are included which may facilitate higher throughput processing. Broadly speaking, this library step involves 4 steps:
 
 1) Tagmentation: in this step, DNA becomes bound to magnetic beads and an enzymatic process shears the DNA while leaving handles that will allow for subsequent amplification and indexing. The reaction takes place on a thermocycler and is stopped by the addition of SDS (buffer TSB). The protocol must continue to step 2 immediately on completion.
 
@@ -16,7 +16,7 @@ This protocol uses the [Illumina DNA Prep protocol](https://support.illumina.com
 
 4) QC: Some (or all) libraries are analyzed for size distribution using an Agilent Tapestation to ensure appropriate size distribution and yield.
 
-**Sample Input Requirements**: All samples must be pure DNA free of contaminants such as organic solvents or wash buffers from extraction. It is anticipated that most DNA has been derived from the QIAcube HT Powersoil kit which should not have these issues. Samples should be pre-normalized to 5 ng/ul and have at least 15 µL available. To normalize the samples, they should be measured by qubit (if yield of samples is <30ng/ul), or Nanodrop (if sample yield is >=30ng/ul). **If using Nanodrop, the 260/230 ratio must be over 1.4.** All DNA should be resuspended in water or Tris-HCl. *Avoid EDTA/TE where possible.*
+**Sample Input Requirements**: All samples must be pure DNA free of contaminants such as organic solvents or wash buffers residual from extraction. It is anticipated that most DNA has been derived from the QIAcube HT Powersoil kit which should not have these issues. Samples should be pre-normalized to 5 ng/ul and have at least 15 µL available. To normalize the samples, they should be measured by Qubit (if yield of samples is <30ng/ul), or Nanodrop (if sample yield is >=30ng/ul). **If using Nanodrop, the 260/230 ratio must be over 1.4.** All DNA should be resuspended in water or Tris-HCl. *Avoid EDTA/TE where possible.*
 
 
 ## Materials
@@ -66,12 +66,12 @@ This protocol uses the [Illumina DNA Prep protocol](https://support.illumina.com
 ### 1.2 Protocol
 
 - [ ] For each sample to be prepared, combine 2.2µL of TB1 and 2.2 µL of BLT in a microcentrifuge tube.
-- [ ] Transfer 4 µL of the TB1/BLT mixture to strip tube
-- [ ] Working quickly, add 6 µL of gDNA to each tube in the strip. Pipette 10x to mix.
+- [ ] Transfer 4 µL of the TB1/BLT mixture to strip tube.
+- [ ] Working quickly, add 6 µL of gDNA to each tube in the strip. Pipette 10x to mix gently.
 - [ ] Briefly centrifuge strip tube
 - [ ] Transfer to preheated thermocycler running program **TAG** (*see thermocycler program appendix*)
 - [ ] After TAG cycle, briefly centrifuge
-- [ ] Working quickly, transfer 2 µL from the TSB plate to the tagmentation tubes. Pipette 10x to mix.
+- [ ] Working quickly, transfer 2 µL from the TSB plate to the tagmentation tubes. Pipette 10x to mix gently.
 - [ ] Briefly centrifuge
 - [ ] Transfer to preheated thermocycler running program **PTC**
 - [ ] Immediately proceed to Step 2. It may be beneficial to do step 2 preparations while PTC runs.
@@ -94,7 +94,7 @@ This protocol uses the [Illumina DNA Prep protocol](https://support.illumina.com
 
 #### Preparation
 
-**PCR Master Mix:** In a nuclease free tube, combine 4.4 µL of EPM with 4.4 µL nuclease free water per library prep. If doing a larger number of samples, divide between a strip tube to allow multichannel usage. Storage on ice
+**PCR Master Mix:** In a nuclease free tube, combine 4.4 µL of EPM with 4.4 µL nuclease free water per library prep. If doing a larger number of samples, divide between a strip tube to allow multichannel usage. Store on ice.
 
 
 #### Procedure
@@ -110,9 +110,9 @@ This protocol uses the [Illumina DNA Prep protocol](https://support.illumina.com
 - [ ] Briefly centrifuge
 - [ ] Capture beads (will take approximately 2 minutes)
 - [ ] Remove and discard supernatant
-- [ ] Working **very** quickly to prevent beads from drying, add 8µL of the PCR Master Mix to each tube. Briefly mix by pipetting to ensure beads are resuspended in Master Mix.
-- [ ] Transfer 2 µL of corresponding index to each well and mix by pipetting
-- [ ] Briefly centrifuge, ensure there are no bubbles
+- [ ] Working **very** quickly to prevent beads from drying, add 8µL of the PCR Master Mix to each tube. Briefly mix by pipetting gently to ensure beads are resuspended in Master Mix.
+- [ ] Transfer 2 µL of corresponding index to each well and mix by pipetting gently.
+- [ ] Briefly centrifuge, ensure there are no bubbles.
 - [ ] Transfer to preheated thermocycler running program **BLT PCR** (*see thermocycler program appendix*)
       	<br>*Note: 6 cycles is recommended for ~30ng input DNA. For some applications such as virome, increasing cycles may be required up to 12 cycles. This may decrease fragment sizes from 500-600 to ~400-450. The decision should be made with care depending on user's needs.*
 - [ ] After BLT PCR, either proceed, or store at -20˚C.
