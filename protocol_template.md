@@ -18,35 +18,20 @@
 
 Things to do before starting:
 
-[ ] 1. 
+- [ ] 1. 
 
-2. 
-   [ ] 
-   [ ] 
 
 
 **A. description**
 
-[ ] 1. 
-
-2. 
-
-  [ ]
-  
-  [ ]
-  
+- [ ] 1. 
 
 
 
 **B. description**
 
-[ ] 1. 
+- [ ] 1. 
 
-2. 
-
-  [ ]
-  
-  [ ]
 
 
 
