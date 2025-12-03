@@ -49,6 +49,16 @@ This protocol uses the [Illumina DNA Prep protocol](https://support-docs.illumin
   
 ***
 
+|Sample      	 | Tube  | Index      |
+|----------------|-------|------------|
+|    	         | 1     |            |
+|    	         | 2     |            |
+|      		     | 3     |            |
+|       	     | 4     |            |
+|       	     | 5     |            |
+|        	     | 6     |            |
+|      	   	     | 7     |            |
+|       	     | 8     |            |
 
 
 ## Protocol
